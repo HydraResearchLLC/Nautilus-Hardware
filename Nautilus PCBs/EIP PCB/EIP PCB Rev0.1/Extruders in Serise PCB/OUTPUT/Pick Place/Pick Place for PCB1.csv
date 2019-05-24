@@ -1,0 +1,16 @@
+Altium Designer Pick and Place Locations
+C:\Project\$$John Kray\Extruders in Serise PCB\OUTPUT\Pick Place\Pick Place for PCB1.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       03/10/18
+Time:       14:47
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"P1","Header 4H","TopLayer","HDR1X4H","2197.244","2149.606","0","CONN RECEPT 4POS .100 R/A PCB"
+"E0-1","Header 4","BottomLayer","HDR1X4","2197.244","2307.087","360","CONN HEADER 4POS .100 VERT TIN"
+"E0-2","Header 4","BottomLayer","HDR1X4","2197.244","2582.677","360","CONN HEADER 4POS .100 VERT TIN"

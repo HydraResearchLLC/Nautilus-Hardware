@@ -1,0 +1,21 @@
+Altium Designer Pick and Place Locations
+C:\Project\$$John Kray\REV0.3_modified\OUTPUT\Pick Place\Pick Place for PCB1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       03/10/18
+Time:       13:30
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment   Layer       Footprint      Center-X(mil) Center-Y(mil) Rotation Description 
+U14        WM17990CT TopLayer    WM17990CT-ND-L 4619.114      3224.410      90       ""          
+U13        WM17990CT TopLayer    WM17990CT-ND-L 4619.114      3437.008      90       ""          
+U12        WM17990CT TopLayer    WM17990CT-ND-L 4619.114      3649.606      90       ""          
+U11        WM17990CT TopLayer    WM17990CT-ND-L 4619.114      3862.205      90       ""          
+U04        A125081CT BottomLayer A125081CT-ND   3720.472      3866.535      180      ""          
+U03        A125081CT BottomLayer A125081CT-ND   3917.323      3866.535      180      ""          
+U02        A125081CT BottomLayer A125081CT-ND   4114.173      3866.535      180      ""          
+U01        A125081CT BottomLayer A125081CT-ND   4311.024      3866.535      180      ""          

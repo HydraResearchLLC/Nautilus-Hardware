@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Schematic Document [EIP PCB0.1.SchDoc]
+   Generated File[Bill of Materials-EIP PCB0.1.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 2:47:09 PM On 10/3/2018

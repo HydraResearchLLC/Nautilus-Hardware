@@ -1,0 +1,21 @@
+Altium Designer Pick and Place Locations
+C:\Users\tousten\Desktop\REV0.4\REV0.4\OUTPUT\Pick Place\Pick Place for REV04.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       23/07/18
+Time:       08:50
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"J4","CONTACT","BottomLayer","CONTRACT_PAD","1958.661","2657.480","180",""
+"J3","CONTACT","BottomLayer","CONTRACT_PAD","1761.811","2657.480","180",""
+"J2","CONTACT","BottomLayer","CONTRACT_PAD","1564.961","2657.480","180",""
+"J1","CONTACT","BottomLayer","CONTRACT_PAD","1368.110","2657.480","0",""
+"4","WM17990CT","TopLayer","WM17990CT-ND-L","1978.346","2121.280","360",""
+"3","WM17990CT","TopLayer","WM17990CT-ND-L","1768.372","2121.280","360",""
+"2","WM17990CT","TopLayer","WM17990CT-ND-L","1558.399","2121.280","360",""
+"1","WM17990CT","TopLayer","WM17990CT-ND-L","1348.425","2121.280","360",""
